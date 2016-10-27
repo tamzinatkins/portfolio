@@ -30,6 +30,10 @@
                                     </strong>
                                 </li>
                             </ul>
+                            {% for image_item in post.image_items %}
+                                <img src="img/portfolio/{{ post.name }}/{{ image_item.img }}" class="img-responsive img-centered" alt="{{ image_item.alt}}">
+                                <p>{{ image_item.description }}</p>
+                            {% endfor %}
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>

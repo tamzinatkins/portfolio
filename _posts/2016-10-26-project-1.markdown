@@ -1,5 +1,6 @@
 ---
 layout: default
+title: my title
 modal-id: 1
 date: 2016-10-26
 img: luke.jpg
@@ -8,5 +9,14 @@ project-date: April 2016
 client: Luke Fraser
 category: Mechanical Engineering
 description: This is my description of the project
-
+image_items: [ 
+    {
+        img: cabin.png,
+        description: Let me tell you a story that I once had about myself.
+    },
+    {
+        img: game.png,
+        description: another image and description.
+    }
+]
 ---
