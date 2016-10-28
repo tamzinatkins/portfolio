@@ -1,6 +1,7 @@
 ---
 layout: default
 title: my title
+name: test
 modal-id: 1
 date: 2016-10-26
 img: luke.jpg
