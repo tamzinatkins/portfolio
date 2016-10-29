@@ -2,7 +2,6 @@
 layout: default
 title: another test
 name: another_test
-modal-id: 2
 date: 2016-10-26
 img: cabin.png
 alt: image-alt
