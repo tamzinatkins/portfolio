@@ -10,7 +10,7 @@ project-date: October 2016
 client: Luke Fraser
 category: Mechanical Engineering
 description: hellow world
-image_items: [ 
+image_items: [
     {
         img: game.png,
         description: Let me tell you a story that I once had about myself lkasjdlfakjsdlfakj.
