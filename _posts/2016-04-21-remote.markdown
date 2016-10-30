@@ -1,0 +1,30 @@
+---
+layout: default
+title: Remote Case
+name: remote
+date: 2016-04-21
+img: controller.jpg
+alt: image-alt
+project-date: February 2016
+client: Luke Fraser
+category: Mechanical Engineering
+description: My senior project during my undergraduate degree was to design and fabricate a portable bowling kit, where the pins are reset via remote control. One of my tasks was to create the remote. I used two SBCs and a transmitter/receiver kit to send and receive communication from the buttons on the controller to the motor attached to the bowling pins using PWM.
+image_items: [
+    {
+        img: assemblying.jpg,
+        description: This is the assembly of the control buttons, SBC, transmitter, and antenna.
+    },
+    {
+        img: case.png,
+        description: I designed the remote case in two halves, one side housing the batteries, and the rest of the transmitting hardware in the other half. 
+    },
+      {
+        img: transmitter.png,
+        description: This part of the case houses the transmitting hardware, remote control buttons, and the power switch. 
+    },
+    {
+        img: remote.jpg,
+        description: I designed the remote case to be compact, easy to open, and inexpensive when it was 3D printed. The controller has four buttons, as well as a power switch. The case is screwed together at four corners to allow the user to be able to repeatedly open and close it.
+    }
+]
+---
