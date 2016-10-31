@@ -15,7 +15,7 @@ image_items: [
         description: The bulk of the hardware for this telemetry system is mounted inside the cab, where it is protected from the weather. My job was to design a layout for the hardware and its enclosure that was within the spatial limitations set for fitting it behind the passenger seat in the cab of the NDOT snow plows. After the layout was finalized, I built a prototype of the backplate with mounting holes for the hardware to be attached to, to confirm the dimensions for the mounting holes were correct.
     },
     {
-        img: solidworks_model.jpg,
+        img: solidworks_model.png,
         description: After the backplate layout had been confirmed, I worked with a vendor to machine the backplate. I then finalized the c channel and lid design, ensuring the process of mounting the enclosure to the wall of the cab of the truck would not be difficult.
     },
     {
@@ -25,7 +25,6 @@ image_items: [
     {
         img: final.jpg,
         description:
-
     },
     {
         img: in_truck.jpg,
