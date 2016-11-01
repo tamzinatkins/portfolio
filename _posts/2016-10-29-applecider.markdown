@@ -1,18 +1,22 @@
 ---
 layout: default
-title: Cider Press
+title: Apple Press
 name: cider_press
 date: 2016-10-29
-img: sample_press.jpg
+img: apple_press_7.jpg
 alt: image-alt
 project-date: October 2016
 client: Personal
 category: Mechanical Engineering
-description: Made a cider press.
+description: I modeled an apple press for a personal project.
 image_items: [
     {
-        img: luke.jpg,
-        description: check out my sweet cider press.
+        img: apple_press_8.jpg,
+        description: 
+    },
+     {
+        img: apple_press_9.jpg,
+        description: 
     }
 ]
 ---

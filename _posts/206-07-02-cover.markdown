@@ -1,0 +1,18 @@
+---
+layout: default
+title: Cover
+name: cover
+date: 2016-07-02
+img: cover_main.png
+alt: image-alt
+project-date: July 2016
+client: Work
+category: Mechanical Engineering
+description: 
+image_items: [
+    {
+        img: cover_bottom.png,
+        description: 
+    }
+]
+---

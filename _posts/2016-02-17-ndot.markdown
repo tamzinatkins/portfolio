@@ -6,29 +6,29 @@ date: 2016-02-17
 img: final.png
 alt: image-alt
 project-date: February 2016
-client: Luke Fraser
+client: Work
 category: Mechanical Engineering
-description: I assisted a Ph.D student working to provide more accurate real time winter weather and road condition updates to the Nevada Department of Transportation (NDOT) utilizing their own vehicles operating in the Sierra Nevada foothills and mountains. This telemetry system allows Department of Transportation to more effectively allocate their resources (snow plows, salt, etc) in the places needed the most. In addition to taking weather readings, this system also monitors the rate at which salt is being spread onto the ground, and senses when there is no longer any salt in the back of the plow. 
+description: "I assisted a Ph.D student working to provide more accurate real time winter weather and road condition updates to the Nevada Department of Transportation (NDOT) utilizing their own vehicles operating in the Sierra Nevada foothills and mountains. This telemetry system allows Department of Transportation to more effectively allocate their resources (snow plows, salt, etc) in the places needed the most. In addition to taking weather readings, this system also monitors the rate at which salt is being spread onto the ground, and senses when there is no longer any salt in the back of the plow."
 image_items: [
     {
         img: prototype.jpg,
-        description: The bulk of the hardware for this telemetry system is mounted inside the cab, where it is protected from the weather. My job was to design a layout for the hardware and its enclosure that was within the spatial limitations set for fitting it behind the passenger seat in the cab of the NDOT snow plows. After the layout was finalized, I built a prototype of the backplate with mounting holes for the hardware to be attached to, to confirm the dimensions for the mounting holes were correct.
+        description: "The bulk of the hardware for this telemetry system is mounted inside the cab, where it is protected from the weather. My job was to design a layout for the hardware and its enclosure that was within the spatial limitations set for fitting it behind the passenger seat in the cab of the NDOT snow plows. After the layout was finalized, I built a prototype of the backplate with mounting holes for the hardware to be attached to, to confirm the dimensions for the mounting holes were correct."
     },
     {
-        img: solidworks_model.png,
-        description: After the backplate layout had been confirmed, I worked with a vendor to machine the backplate. I then finalized the c channel and lid design, ensuring the process of mounting the enclosure to the wall of the cab of the truck would not be difficult.
+        img: back_plate.jpg,
+        description:
+    },
+        {
+        img: model.jpg,
+        description: "After the backplate layout had been confirmed, I worked with a vendor to machine the backplate. I then finalized the c channel and lid design, ensuring the process of mounting the enclosure to the wall of the cab of the truck would not be difficult."
     },
     {
         img: complete.jpg,
-        description: I machined the c-channels and lids, attached the hardware to the backplate, and put together the enclosure.
-    },
-    {
-        img: final.jpg,
-        description:
+        description: "I machined the c-channels and lids, attached the hardware to the backplate, and put together the enclosure."
     },
     {
         img: in_truck.jpg,
-        description: This is the final product, mounted behind the passenger seat in the cab of the snow plow.
+        description: "This is the final product, mounted behind the passenger seat in the cab of the snow plow."
     }
 ]
 ---

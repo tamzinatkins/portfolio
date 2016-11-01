@@ -1,0 +1,18 @@
+---
+layout: default
+title: Yoke
+name: yoke
+date: 2016-07-01
+img: yoke_main.png
+alt: image-alt
+project-date: July 2016
+client: Work
+category: Mechanical Engineering
+description: 
+image_items: [
+    {
+        img: yoke_back.png,
+        description: 
+    }
+]
+---
