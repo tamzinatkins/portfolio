@@ -25,6 +25,10 @@ image_items: [
     {
         img: remote.jpg,
         description: I designed the remote case to be compact, easy to open, and inexpensive when it was 3D printed. The controller has four buttons, as well as a power switch. The case is screwed together at four corners to allow the user to be able to repeatedly open and close it.
+    },
+    {
+        video: remote.mp4,
+        description: "adding new remote video"
     }
 ]
 ---
