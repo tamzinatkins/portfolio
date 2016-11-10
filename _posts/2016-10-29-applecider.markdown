@@ -17,6 +17,10 @@ image_items: [
      {
         img: apple_press_9.jpg,
         description: 
+    },
+    {
+        video: ciderpress.4.mp4,
+        description: "test"
     }
 ]
 ---
