@@ -31,6 +31,14 @@
                                 </li>
                             </ul>
                             {% for image_item in post.image_items %}
+                                {% if image_item.video != NULL %}
+                                    <div align="center" class="embed-responsive embed-responsive-16by9">
+                                        <video class="embed-responsive-item" controls>
+                                            <source src="video/portfolio/{{ post.name }}/{{ image_item.video }}" type="video/mp4">
+                                            Your browser does not support the video tag.
+                                        </video>
+                                    </div>
+                                {% endif %}
                                 <img src="img/portfolio/{{ post.name }}/{{ image_item.img }}" class="img-responsive img-centered" alt="{{ post.alt}}"/>
                                 <p>{{ image_item.description }}</p>
                             {% endfor %}
