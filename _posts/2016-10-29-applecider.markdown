@@ -19,8 +19,8 @@ image_items: [
         description: 
     },
     {
-        video: ciderpress.4.mp4,
-        description: "test"
+        video: ciderpress.mp4,
+        description: "Here is a video of my work"
     }
 ]
 ---

@@ -33,13 +33,15 @@
                             {% for image_item in post.image_items %}
                                 {% if image_item.video != NULL %}
                                     <div align="center" class="embed-responsive embed-responsive-16by9">
-                                        <video class="embed-responsive-item" controls>
+                                        <video class="embed-responsive-item" controls loop autoplay>
                                             <source src="video/portfolio/{{ post.name }}/{{ image_item.video }}" type="video/mp4">
                                             Your browser does not support the video tag.
                                         </video>
                                     </div>
                                 {% endif %}
+                                {% if image_item.img != NULL %}
                                 <img src="img/portfolio/{{ post.name }}/{{ image_item.img }}" class="img-responsive img-centered" alt="{{ post.alt}}"/>
+                                {% endif %}
                                 <p>{{ image_item.description }}</p>
                             {% endfor %}
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
