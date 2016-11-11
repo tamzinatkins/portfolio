@@ -19,11 +19,7 @@ image_items: [
         description: "This is the final design of the hardware enclosure."
     },
     {
-        img: back_plate.jpg,
-        description:
-    },
-        {
-        img: model.jpg,
+        img: ndot_isometric.png,
         description: "After the backplate layout was confirmed, I worked with a vendor to machine the backplate. I then finalized the c-channel and cover design, ensuring the process of mounting the enclosure to the wall of the cab of the snow plow would not be difficult."
     },
     {
