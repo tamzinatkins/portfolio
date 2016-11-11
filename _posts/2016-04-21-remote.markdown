@@ -8,7 +8,7 @@ alt: image-alt
 project-date: April 2016
 client: Academic
 category: Mechanical Engineering
-description: "My senior project during my undergraduate degree was to design and fabricate a portable bowling kit, where the bowling pins are reset via remote control. One of my tasks was to create the remote. I used two SBCs and a transmitter/receiver kit to send communication from the buttons on the controller to the motor responsible for raising and lowering the bowling pins, utilizing PWM. To learn more about my senior project, click <a href=\"https://mechecapstone.blogs.unr.edu/previous-projects/2016-teams-2/team-6/\">here</a>"
+description: "My undergraduate senior project was to design and fabricate a portable bowling kit, where the bowling pins are reset via remote control. Working as part of a team, one of my tasks was to create the remote. I used two SBCs and a transmitter/receiver kit to send communication from the buttons on the controller to the motor responsible for raising and lowering the bowling pins, utilizing PWM. To learn more about my senior project, click <a href=\"https://mechecapstone.blogs.unr.edu/previous-projects/2016-teams-2/team-6/\">here</a>"
 image_items: [
     {
         video: remote.mp4,
@@ -19,12 +19,8 @@ image_items: [
         description: "This is the assembly of the control buttons, SBC, transmitter, and antenna."
     },
     {
-        img: case_assembly_2.jpg,
-        description: "The remote case was designed in two halves: one side housing the batteries, and the rest of the transmitting hardware in the other half." 
-    },
-      {
-        img: transmitter_model_2.jpg,
-        description: "This part of the case contains the transmitting hardware, remote control buttons, and the power switch."
+        img: remote_isometric.png,
+        description: "The remote case was designed in two parts: the near part houses the transmitting hardware, and the far side holds the batteries." 
     },
     {
         img: remote.jpg,
