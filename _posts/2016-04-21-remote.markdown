@@ -8,27 +8,28 @@ alt: image-alt
 project-date: April 2016
 client: Academic
 category: Mechanical Engineering
-description: "My senior project during my undergraduate degree was to design and fabricate a portable bowling kit, where the pins are reset via remote control. One of my tasks was to create the remote. I used two SBCs and a transmitter/receiver kit to send and receive communication from the buttons on the controller to the motor attached to the bowling pins using PWM. To find out more, click <a href=\"https://mechecapstone.blogs.unr.edu/previous-projects/2016-teams-2/team-6/\">here</a>"
+description: "My senior project during my undergraduate degree was to design and fabricate a portable bowling kit, where the bowling pins are reset via remote control. One of my tasks was to create the remote. I used two SBCs and a transmitter/receiver kit to send communication from the buttons on the controller to the motor responsible for raising and lowering the bowling pins, utilizing PWM. To learn more about my senior project, click <a href=\"https://mechecapstone.blogs.unr.edu/previous-projects/2016-teams-2/team-6/\">here</a>"
 image_items: [
+    {
+        video: remote.mp4,
+        description: "The remote case was designed to be inexpensive when it was 3D printed. Mounts help secure the hardware and allow for the wiring to run along the underside of the protoboards."
+    },
     {
         img: assemblying.jpg,
         description: "This is the assembly of the control buttons, SBC, transmitter, and antenna."
     },
     {
         img: case_assembly_2.jpg,
-        description: "I designed the remote case in two halves, one side housing the batteries, and the rest of the transmitting hardware in the other half." 
+        description: "The remote case was designed in two halves: one side housing the batteries, and the rest of the transmitting hardware in the other half." 
     },
       {
         img: transmitter_model_2.jpg,
-        description: "This part of the case houses the transmitting hardware, remote control buttons, and the power switch."
+        description: "This part of the case contains the transmitting hardware, remote control buttons, and the power switch."
     },
     {
         img: remote.jpg,
-        description: I designed the remote case to be compact, easy to open, and inexpensive when it was 3D printed. The controller has four buttons, as well as a power switch. The case is screwed together at four corners to allow the user to be able to repeatedly open and close it.
-    },
-    {
-        video: remote.mp4,
-        description: "adding new remote video"
+        description: "The remote case was designed to be compact and inexpensive. The controller has four buttons, as well as a power switch. The case is screwed together at four corners to allow the user to be able to repeatedly open and close it."
     }
+    
 ]
 ---
