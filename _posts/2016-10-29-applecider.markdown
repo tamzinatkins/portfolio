@@ -16,7 +16,7 @@ image_items: [
     },
     {
         img: ciderpress_closeup.png,
-        description: "Here is a close up of the bearing interface of the press, where the user cranks the disc at the top of the threaded rod, to push down on the apple pulp, to extract the juice."
+        description: "Here is a close up of the bearing interface of the press, where the user cranks the disc at the top of the threaded rod, to push the pressing plate down on the apple pulp, to extract the juice."
     }    
 ]
 ---
