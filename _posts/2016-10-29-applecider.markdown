@@ -8,20 +8,15 @@ alt: image-alt
 project-date: October 2016
 client: Personal
 category: Mechanical Engineering
-description: I modeled an apple press for a personal project.
+description: I modeled an apple press for a personal project. I was inspired to model this apple press after making apple cider with relatives.
 image_items: [
     {
         video: ciderpress.mp4,
-        description: "This is the apple press I modeled. It is made out of standard types of wood and aluminum extrusions."
+        description: "I measured and documented a pre-existing apple press to replicate in Solidworks, so I can build one in the future. It is made primarily out of wood and aluminum extrusions."
     },
     {
-        img: apple_press_8.jpg,
-        description: 
-    },
-     {
-        img: apple_press_9.jpg,
-        description: 
-    }
-    
+        img: ciderpress_closeup.png,
+        description: "Here is a close up of the bearing interface of the press, where the user cranks the disc at the top of the threaded rod, to push down on the apple pulp, to extract the juice."
+    }    
 ]
 ---
