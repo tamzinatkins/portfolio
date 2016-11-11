@@ -8,7 +8,7 @@ alt: image-alt
 project-date: July 2016
 client: Work
 category: Mechanical Engineering
-description: 
+description: "This is a yoke I modeled and used in engineering analyses."
 image_items: [
     {
         img: yoke_back.png,
