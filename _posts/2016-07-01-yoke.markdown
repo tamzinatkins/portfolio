@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Yoke
+title: Yoke and Cover
 name: yoke
 date: 2016-07-01
 img: yoke_main.png
@@ -8,11 +8,19 @@ alt: image-alt
 project-date: July 2016
 client: Work
 category: Mechanical Engineering
-description: "This is a yoke I modeled and used in engineering analyses."
+description: "I worked at a defense contractor, Sierra Nevada Corporation, modeling parts and performing finite element analyses of an automatic carrier landing system. Most of my work was focused around creating models for visual presentations, as well as engineering analyses. These components needed to be robust and comply with high standards."
 image_items: [
     {
         img: yoke_back.png,
-        description: 
+        description: "This yoke is one of the components I modeled. This is the back view of the yoke, which is also seen in the first picture."
+    },
+    {
+        img: cover_main.png,
+        description: "This cover is another component I modeled."
+    },
+    {
+        img: cover_bottom.png,
+        description: "Here is the underside of the cover."
     }
 ]
 ---
