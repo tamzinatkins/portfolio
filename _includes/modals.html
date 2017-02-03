@@ -15,7 +15,9 @@
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}"/>
-                            <p>{{ post.description }}</p>
+                            <div class="description"
+                            <p>{{ post.description | markdownify }}</p>
+                            </div>
                             <ul class="list-inline item-details">
                                 <li>Client:
                                     <strong><a href="{{ post.link }}">{{ post.client }}</a>
@@ -42,7 +44,9 @@
                                 {% if image_item.img != NULL %}
                                 <img src="img/portfolio/{{ post.name }}/{{ image_item.img }}" class="img-responsive img-centered" alt="{{ post.alt}}"/>
                                 {% endif %}
-                                <p>{{ image_item.description }}</p>
+                                <div class="description">
+                                <p>{{ image_item.description | markdownify }}</p>
+                                </div>
                             {% endfor %}
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
