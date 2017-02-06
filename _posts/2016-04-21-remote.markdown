@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Remote Case
+title: Remote
 name: remote
 date: 2016-04-21
 img: controller.png
@@ -47,11 +47,15 @@ image_items: [
         description: "*The final project in action - resetting the bowling pins with the remote.*"
     },
     {
-        description: "If I made this remote case again, I would:
+        description: "If I made this remote again, I would:
 
- 1) Use a different method or research heat inserts to screw together the two parts. I screwed directly into the plastic.
+ 1) Research heat-set threaded inserts to screw together the two parts. I screwed directly into the plastic.
 
-2) Make the opening for the power switch smaller and use a cleaner method to secure the power switch so the remote keeps its clean aesthetic."
+2) Make the opening for the power switch smaller and use a cleaner method to secure the power switch so the remote keeps its clean aesthetic.
+
+3) Place a limit switch at the maximum height of the pin when it is pulled up to be reset, so the reset can be completed with pressing one button instead of two.
+
+4) "
     },
     {
         description: "What I learned:
