@@ -49,14 +49,14 @@ image_items: [
     {
         description: "If I did this again, I would:
 
-- Use a different method or research heat inserts to screw together the two parts. I screwed directly into the plastic.
+ 1) Use a different method or research heat inserts to screw together the two parts. I screwed directly into the plastic.
 
-- Make the opening for the power switch smaller and use a cleaner method to secure the power switch so the remote keeps its clean aesthetic."
+2) Make the opening for the power switch smaller and use a cleaner method to secure the power switch so the remote keeps its clean aesthetic."
     },
     {
         description: "What I learned:
 
-- DFM for 3D printers - having fillets
+ Designing for 3D printing (adding fillets to reduce stress points)
 
 - The need for support material when 3D printing
 

@@ -27,9 +27,9 @@ image_items: [
     {
      description: "Possible solutions to increase leverage include:
 
-    - Weld a hexagonal piece (like a hex head, but of a standard size) centered on the top of the disc and use a large socket wrench head that can sit over the hexagonal piece and the user can spin the device.
+     1) Weld a hexagonal piece (like a hex head, but of a standard size) centered on the top of the disc and use a large socket wrench head that can sit over the hexagonal piece and the user can spin the device.
 
-    - Weld a square head (instead of the hex head above), and use a valve key."
+    2) Weld a square head (instead of the hex head above), and use a valve key."
     }
        
 ]

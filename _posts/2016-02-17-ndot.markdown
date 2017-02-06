@@ -79,14 +79,12 @@ image_items: [
         description: "Ten telemetry systems were installed into NDOT vehicles."
     },
     {
-        description: "If I did this again, I would:
-
-- CNC the c-channels: my human error required me to make the through holes in the acrylic with lower tolerances than I would have used otherwise so the machine screws were guaranteed to fit and be secured in the tapped holes in the c-channels."
+        description: "If I did this again, I would CNC the c-channels: my human error required me to make the through holes in the acrylic with lower tolerances than I would have used otherwise so the machine screws were guaranteed to fit and be secured in the tapped holes in the c-channels."
     },
     {
         description: "What I learned:
 
-- How to use a horizontal saw, mill, and belt sander
+ How to use a horizontal saw, mill, and belt sander
 
 - How to use a laser cutter
 
