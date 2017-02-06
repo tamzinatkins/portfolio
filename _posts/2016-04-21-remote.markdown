@@ -30,7 +30,7 @@ image_items: [
     },
     {
         img: receiver.jpg,
-        description: "*The receiving end, consisting of a receiver (for Arduino and Raspberry Pi), another Arduino Pro Mini, and another quarter-wave whip antenna mounted on protoboard, connected to the SBC, a Raspberry Pi.*"
+        description: "*The receiving end, consisting of a receiver (for Arduino and Raspberry Pi), another Arduino Pro Mini, and another quarter-wave whip antenna mounted on protoboard, connected to the Raspberry Pi.*"
     },
     {
         description: "The receiver is connected to a Raspberry Pi onboard the bowling pin structure so it can send signals to the motor responsible for resetting the bowling pins."
