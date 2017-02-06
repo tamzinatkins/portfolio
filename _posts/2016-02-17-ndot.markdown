@@ -29,6 +29,9 @@ image_items: [
     {
         img: in_truck.jpg,
         description: "This is the final product, mounted behind the passenger seat in the cab of the snow plow. Ten telemetry systems were installed into NDOT vehicles."
+    },
+    {
+        youtube_video: '<iframe src="https://www.youtube.com/embed/Xn599R0ZBwg" frameborder="0" allowfullscreen></iframe>'
     }
     
 ]

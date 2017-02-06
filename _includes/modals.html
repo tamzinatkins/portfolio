@@ -39,6 +39,11 @@
                                         </video>
                                     </div>
                                 {% endif %}
+                                {% if image_item.youtube_video != NULL %}
+                                <div align"center" class="embed-responsive embed-responsive-16by9">
+                                {{ image_item.youtube_video }}
+                                </div> 
+                                {% endif %}
                                 {% if image_item.img != NULL %}
                                 <img src="img/portfolio/{{ post.name }}/{{ image_item.img }}" class="img-responsive img-centered" alt="{{ post.alt}}"/>
                                 {% endif %}
