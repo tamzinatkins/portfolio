@@ -8,7 +8,7 @@ alt: image-alt
 project-date: April 2016
 client: Academic
 category: Mechanical Engineering
-description: "My undergraduate senior project was to design and fabricate a portable bowling kit, where the bowling pins are reset via remote control. Working as part of a team, one of my tasks was to create the remote. I used two Arduino boards, a transmitter/receiver kit, and an SBC (single board computer) to send communication from the buttons on the controller to the motor responsible for raising and lowering the bowling pins, utilizing PWM. To learn more about my senior project, click <a href=\"https://mechecapstone.blogs.unr.edu/previous-projects/2016-teams-2/team-6/\">here</a>."
+description: "My undergraduate senior project was to design and fabricate a portable bowling kit, where the bowling pins are reset via remote control. Working as part of a team, one of my tasks was to create the remote. I used two Arduino boards, a transmitter/receiver kit, and an SBC (single board computer) to send communication from the buttons on the controller to the motor responsible for raising and lowering the bowling pins, utilizing PWM (pulse width modulation). To learn more about my senior project, click <a href=\"https://mechecapstone.blogs.unr.edu/previous-projects/2016-teams-2/team-6/\">here</a>."
 image_items: [
     {
         video: remote.mp4,
@@ -30,7 +30,7 @@ image_items: [
     },
     {
         img: receiver.jpg,
-        description: "*The receiving end, consisting of a receiver (for Arduino and Raspberry Pi), another Arduino Pro Mini, and another quarter-wave whip antennmounted on protoboard, connected to the SBC, a Raspberry Pi.*"
+        description: "*The receiving end, consisting of a receiver (for Arduino and Raspberry Pi), another Arduino Pro Mini, and another quarter-wave whip antenna mounted on protoboard, connected to the SBC, a Raspberry Pi.*"
     },
     {
         description: "The receiver is connected to a Raspberry Pi onboard the bowling pin structure so it can send signals to the motor responsible for resetting the bowling pins."
@@ -40,14 +40,14 @@ image_items: [
         description: "*The final product.*"
     },
     {
-        description: "The remote case was designed to be compact and inexpensive. The controller has four buttons, as well as a power switch. The case is screwed together at four corners to allow the user to be able to repeatedly open and close it."
+        description: "The remote case was designed to be compact and inexpensive. The controller has four buttons (although only two were used), as well as a power switch. One button raises the pins, and the second button lowers the pins. The case is screwed together at four corners."
     },
     {
         youtube_video: '<iframe width="560" height="315" src="https://www.youtube.com/embed/kWzxq2CANDw" frameborder="0" allowfullscreen></iframe>',
         description: "*The final project in action - resetting the bowling pins with the remote.*"
     },
     {
-        description: "If I did this again, I would:
+        description: "If I made this remote case again, I would:
 
  1) Use a different method or research heat inserts to screw together the two parts. I screwed directly into the plastic.
 
@@ -62,7 +62,7 @@ image_items: [
 
 - How a state machine works (programming)
 
-- About SBCs - working with a Raspberry Pi
+- About SBCs (working with a Raspberry Pi)
 
 - About transmitters and receivers, and how vital it is to get the length of the antenna correct"
     }
