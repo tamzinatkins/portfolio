@@ -8,24 +8,46 @@ alt: image-alt
 project-date: April 2016
 client: Academic
 category: Mechanical Engineering
-description: "My undergraduate senior project was to design and fabricate a portable bowling kit, where the bowling pins are reset via remote control. Working as part of a team, one of my tasks was to create the remote. I used two SBCs and a transmitter/receiver kit to send communication from the buttons on the controller to the motor responsible for raising and lowering the bowling pins, utilizing PWM. To learn more about my senior project, click <a href=\"https://mechecapstone.blogs.unr.edu/previous-projects/2016-teams-2/team-6/\">here</a>"
+description: "My undergraduate senior project was to design and fabricate a portable bowling kit, where the bowling pins are reset via remote control. Working as part of a team, one of my tasks was to create the remote. I used two Arduino boards, a transmitter/receiver kit, and an SBC (single board computer) to send communication from the buttons on the controller to the motor responsible for raising and lowering the bowling pins, utilizing PWM. To learn more about my senior project, click <a href=\"https://mechecapstone.blogs.unr.edu/previous-projects/2016-teams-2/team-6/\">here</a>."
 image_items: [
     {
         video: remote.mp4,
-        description: "The remote case was designed to be inexpensive when it was 3D printed. Mounts help secure the hardware and allow for the wiring to run along the underside of the protoboards."
+        description: "*Remote case (transparency has been changed to show internal features).*"
     },
     {
-        img: assemblying.jpg,
-        description: "This is the assembly of the control buttons, SBC, transmitter, and antenna."
+         description: "The remote case was designed to be inexpensive when it was 3D printed. My first iteration was a longer and thinner rectangular prism, and was more expensive than I expected. I redesigned the cover to be more cubic, decreasing the price of printing by approximately 40%. Standoffs help secure the hardware and keep the wiring tidy by running along the underside of the protoboards."
     },
-    {
+       {
         img: remote_isometric.png,
-        description: "The remote case was designed in two parts: the near part houses the transmitting hardware, and the far side holds the batteries." 
+        description: "*The remote case was designed in two parts.*" 
+    },
+    {
+        description: "The case was printed with ABS, using an FDM 3D printer. It was printed in two parts: the near part houses the transmitting hardware, and the far side holds the batteries."
+    },
+     {
+        img: assemblying.jpg,
+        description: "*The assembly of the control buttons, Arduino Pro Mini, transmitter (for Arduino and Raspberry Pi), and antenna (quarter-wave whip).*"
+    },
+    {
+        img: receiver.jpg,
+        description: "*The receiving end, consisting of a receiver (for Arduino and Raspberry Pi), another Arduino Pro Mini, and another quarter-wave whip antennmounted on protoboard, connected to the SBC, a Raspberry Pi.*"
+    },
+    {
+        description: "The receiver is connected to a Raspberry Pi onboard the bowling pin structure so it can send signals to the motor responsible for resetting the bowling pins."
     },
     {
         img: remote.jpg,
+        description: "*The final product.*"
+    },
+    {
         description: "The remote case was designed to be compact and inexpensive. The controller has four buttons, as well as a power switch. The case is screwed together at four corners to allow the user to be able to repeatedly open and close it."
+    },
+    {
+        youtube_video: '<https://www.youtube.com/watch?v=kWzxq2CANDw>'
+    },
+    {}
+        description: "*The final project in action - resetting the bowling pins with the remote.*"
     }
-    
+
 ]
 ---

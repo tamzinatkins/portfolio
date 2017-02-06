@@ -12,15 +12,22 @@ description: "I worked at a defense contractor, Sierra Nevada Corporation, model
 image_items: [
     {
         img: yoke_back.png,
+        description: "*Yoke.*"
+    },
+    {
         description: "This yoke is one of the components I modeled. This is the back view of the yoke, which is also seen in the first picture."
     },
     {
-        img: cover_main.png,
+        img: cover_main_crop.png,
+        description: "*Cover.*"
+    },
+    {
         description: "This cover is another component I modeled."
     },
     {
         img: cover_bottom.png,
-        description: "Here is the underside of the cover."
+        description: "*Cover - underside.*"
     }
+
 ]
 ---

@@ -8,28 +8,97 @@ alt: image-alt
 project-date: February 2016
 client: Work
 category: Mechanical Engineering
-description: "I designed and fabricated ten hardware enclosures for a telemetry system to provide real time winter weather and road condition updates to the Nevada Department of Transportation (NDOT), by utilizing their own vehicles operating in the Sierra Nevada foothills and mountains. This telemetry system allows NDOT to more effectively allocate their resources (snow plows, salt, etc.) in the places needed the most. In addition to taking weather readings, this system also monitors the rate at which salt is being spread onto the ground, and senses when there is no longer any salt in the back of the plow."
+description: "I designed and fabricated ten hardware enclosures for telemetry to provide real time winter weather and road condition updates to the Nevada Department of Transportation (NDOT), utilizing their own vehicles operating in the Sierra Nevada foothills and mountains. The purpose of this project is to enable NDOT to more effectively allocate their resources (snow plows, salt, etc.). In addition to taking weather readings, this system also monitors the rate at which salt is being spread onto the ground, and senses when there is no longer any salt in the back of the plow."
 image_items: [
     {
+        description: "The bulk of the hardware for this system is mounted inside the cab of the vehicle, where it is protected from the weather. I was responsible for designing the layout of the hardware and its enclosure, while fitting within the space behind the passenger seat in the cab of the vehicle."
+    },
+    {
         img: prototype.jpg,
-        description: "The bulk of the hardware for this telemetry system is mounted inside the cab, where it is protected from the weather. I was responsible for designing a layout for the hardware and its enclosure that was within the spatial limitations for fitting it behind the passenger seat in the cab of the NDOT snow plows. After the layout was finalized, I built a prototype of the backplate (shown above) with mounting holes for the hardware, to confirm the dimensions for the mounting holes were correct."
+        description: "*Prototype #1: Foam core.*"
+            },
+    {
+        description: "To finalize the hardware layout, I built two prototypes. For the first prototype, I used foam core as the backplate to get an understanding of the locations of the mounting holes."
+    },
+    {
+        img: acrylic_prototype_crop.jpg,
+        description: "*Prototype #2: Clear acrylic.*"
+    },
+    {
+        description: "I took the dimensions into EngraveLab, and checked to confirm these locations were correct with my second prototype: laser cutting acrylic and screwing the hardware pieces to the acrylic plate. I had the incorrect placement for a couple mounting holes, changed the holes that needed to be changed, and laser cut a second time. To save on resources, I purposely left the acrylic plate larger than what the plate would be in the final product so I could cut a second test round, by simply adjusting my origin point so I could reuse my acrylic test piece."
+    },
+    {
+        img: adam.jpg,
+        description: "*Example of hardware attached from the top face of the backplate.*"
+    },
+    {
+        description: "The surface of the cab wall the enclosure was in contact with was padding material, so it wasn’t necessary to have a flush surface on the back side of the enclosure.The hardware pieces that had through holes for mounting purposes were secured onto the backplate by machine screws from the topside and lock nuts."
+    },
+    {
+        img: linux_box.jpg,
+        description: "*Example of hardware attached from the underside of the backplate.*"
+    },
+    {
+        description: "Other hardware pieces had tapped holes as part of its design, and those were attached to the backplate by machine screws and lock washers from the underside."
+    },
+    {
+        description: "After the backplate layout was confirmed, I drew up the hole locations in SolidWorks and sent a Parasolid file to a vendor to machine the backplate. I finalized the c-channel and cover design after discussing it with the technician who would be doing the installations, to ensure the process of mounting the enclosure to the wall of the cab of the snow plow was be straightforward."
     },
     {
         video: ndot.mp4,
-        description: "This is the final design of the hardware enclosure."
+        description: "*The final design of the hardware enclosure.*"
     },
     {
-        img: ndot_isometric.png,
-        description: "After the backplate layout was confirmed, I worked with a vendor to machine the backplate. I then finalized the c-channel and cover design, ensuring the process of mounting the enclosure to the wall of the cab of the snow plow would not be difficult."
+        description: "These are the materials I decided to use:
+        
+        - 11 gauge aluminum sheets: It meets the strength requirement to withstand truck vibrations and is able to take the load of the equipment. It is relatively lightweight, easy to acquire, and falls under cost restrictions.
+        
+        - 6063 aluminum c-channels: For similar reasons to the aluminum sheets, these c-channels are relatively strong while being lightweight, low cost, and easy to acquire. Another key characteristic were the right angle inside and outside corners, allowing nuts to lay flat.
+        
+        - 0.250 in. clear acrylic: It is clear, low cost, easy to obtain, and rigid enough to act as a barrier between the electronics and the passenger seat. This allows easy initial diagnostic testing - being able to see status lights on the hardware."
     },
     {
-        img: complete.jpg,
-        description: "I machined the c-channels and covers, attached the hardware to the backplates, and assembled the enclosures."
+        img: c_channels_crop.jpg,
+        description: "*Machined c-channels.*"
+    },
+    {
+        description: "I used the horizontal saw and mill to machine the c-channels. I opted to use the mill instead of a CNC because the university only has one CNC to handle all of the mechanical engineering department projects, so I had a quicker turnaround if I machined the parts myself. I ordered 3 foot lengths, cut the c-channels to size, and then milled tapped and through holes. I used a laser cutter to cut the acrylic sheets to size and through holes for machine screws and access holes for a socket wrench (if the need arose to have them), and etched the university’s and NDOT’s logos as a finishing touch."
+    },
+    {
+         img: complete.jpg,
+        description: "*Here is the completed assembly.*"
+    },
+    {
+        description: "After the machining was complete, I filed down all sharp edges, attached the hardware to the backplates, assembled the enclosures, and connected the wiring."
     },
     {
         img: in_truck.jpg,
-        description: "This is the final product, mounted behind the passenger seat in the cab of the snow plow. Ten telemetry systems were installed into NDOT vehicles."
-    }
-    
+        description: "*The final product, mounted behind the passenger seat in the cab of the snow plow. (The passenger seat was not installed in this photo.)*"
+    },
+    {
+        description: "Ten telemetry systems were installed into NDOT vehicles."
+    },
+    {
+        description: "If I did this again, I would:
+
+- CNC the c-channels: my human error required me to make the through holes in the acrylic with lower tolerances than I would have used otherwise so the machine screws were guaranteed to fit and be secured in the tapped holes in the c-channels."
+    },
+    {
+        description: "What I learned:
+
+- How to use a horizontal saw, mill, and belt sander
+
+- How to use a laser cutter
+
+- Differences between using cell and DSRC signals
+
+- Gained experience talking with suppliers
+
+- How to file tax exempt paperwork for purchasing through a university"
+    },
+    {
+        img: me.jpg,
+        description: "*This is me uninstalling a previous iteration of a weather sensor mount on a snow plow.*"
+    }    
 ]
 ---
