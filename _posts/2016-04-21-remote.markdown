@@ -53,9 +53,7 @@ image_items: [
 
 2) Make the opening for the power switch smaller and use a cleaner method to secure the power switch so the remote keeps its clean aesthetic.
 
-3) Place a limit switch at the maximum height of the pin when it is pulled up to be reset, so the reset can be completed with pressing one button instead of two.
-
-4) "
+3) Place a limit switch at the maximum height of the pin when it is pulled up to be reset, so the reset can be completed with pressing one button instead of two."
     },
     {
         description: "What I learned:
