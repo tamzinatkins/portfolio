@@ -27,6 +27,15 @@ image_items: [
     {
         img: cover_bottom.png,
         description: "*Cover - underside.*"
+    },
+    {
+        description: "What I learned:
+
+        - Surfacing techniques
+
+        - Hole Wizard and Configuration Manager in SolidWorks
+
+        - Femap, LS-DYNA (FEA software)"
     }
 
 ]

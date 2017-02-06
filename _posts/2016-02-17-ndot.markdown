@@ -99,6 +99,6 @@ image_items: [
     {
         img: me.jpg,
         description: "*This is me uninstalling a previous iteration of a weather sensor mount on a snow plow.*"
-    }    
+    }
 ]
 ---

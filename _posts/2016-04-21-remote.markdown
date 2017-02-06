@@ -43,10 +43,28 @@ image_items: [
         description: "The remote case was designed to be compact and inexpensive. The controller has four buttons, as well as a power switch. The case is screwed together at four corners to allow the user to be able to repeatedly open and close it."
     },
     {
-        youtube_video: '<https://www.youtube.com/watch?v=kWzxq2CANDw>'
-    },
-    {}
+        youtube_video: '<iframe width="560" height="315" src="https://www.youtube.com/embed/kWzxq2CANDw" frameborder="0" allowfullscreen></iframe>',
         description: "*The final project in action - resetting the bowling pins with the remote.*"
+    },
+    {
+        description: "If I did this again, I would:
+
+- Use a different method or research heat inserts to screw together the two parts. I screwed directly into the plastic.
+
+- Make the opening for the power switch smaller and use a cleaner method to secure the power switch so the remote keeps its clean aesthetic."
+    },
+    {
+        description: "What I learned:
+
+- DFM for 3D printers - having fillets
+
+- The need for support material when 3D printing
+
+- How a state machine works (programming)
+
+- About SBCs - working with a Raspberry Pi
+
+- About transmitters and receivers, and how vital it is to get the length of the antenna correct"
     }
 
 ]
