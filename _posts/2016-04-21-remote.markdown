@@ -8,7 +8,7 @@ alt: image-alt
 project-date: April 2016
 client: Academic
 category: Mechanical Engineering
-description: "My undergraduate senior project was to design and fabricate a portable bowling kit, where the bowling pins are reset via remote control. Working as part of a team, one of my tasks was to create the remote. I used two Arduino boards, a transmitter/receiver kit, and an SBC (single board computer) to send communication from the buttons on the controller to the motor responsible for raising and lowering the bowling pins, utilizing PWM (pulse width modulation). To learn more about my senior project, click <a href=\"https://mechecapstone.blogs.unr.edu/previous-projects/2016-teams-2/team-6/\">here</a>."
+description: "My undergraduate senior project was to design and fabricate a portable bowling kit, where the bowling pins are reset via remote control. Working as part of a five person team, I was elected team leader by the group to ensure the project was on track and members were completing their respective tasks that were collectively agreed upon. One of my delegated tasks was to create the remote. I used two Arduino boards, a transmitter/receiver kit, and an SBC (single board computer) to send communication from the buttons on the controller to the motor responsible for raising and lowering the bowling pins, utilizing PWM (pulse width modulation). To learn more about my senior project, click <a href=\"https://mechecapstone.blogs.unr.edu/previous-projects/2016-teams-2/team-6/\">here</a>."
 image_items: [
     {
         video: remote.mp4,
@@ -49,16 +49,16 @@ image_items: [
     {
         description: "If I made this remote again, I would:
 
- 1) Research heat-set threaded inserts to screw together the two parts. I screwed directly into the plastic.
+ - Research heat-set threaded inserts to screw together the two parts. I screwed directly into the plastic.
 
-2) Make the opening for the power switch smaller and use a cleaner method to secure the power switch so the remote keeps its clean aesthetic.
+- Make the opening for the power switch smaller and use a cleaner method to secure the power switch so the remote keeps its clean aesthetic.
 
-3) Place a limit switch at the maximum height of the pin when it is pulled up to be reset, so the reset can be completed with pressing one button instead of two."
+- Place a limit switch at the maximum height of the pin when it is pulled up to be reset, so the reset can be completed with pressing one button instead of two."
     },
     {
         description: "What I learned:
 
- Designing for 3D printing (adding fillets to reduce stress points)
+- Designing for 3D printing (adding fillets to reduce stress points)
 
 - The need for support material when 3D printing
 

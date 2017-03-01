@@ -84,7 +84,7 @@ image_items: [
     {
         description: "What I learned:
 
- How to use a horizontal saw, mill, and belt sander
+- How to use a horizontal saw, mill, and belt sander
 
 - How to use a laser cutter
 
