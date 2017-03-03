@@ -12,7 +12,7 @@ description: I am modeling an apple press for a personal project. I was inspired
 image_items: [
     {
         video: ciderpress.mp4,
-        description: "I took photos of a pre-existing apple press to replicate in SolidWorks, so I can build one in the future. It is made primarily out of wood and aluminum extrusions."
+        description: "I took photos of a pre-existing apple press to replicate in SolidWorks, so I can build one in the future. It is made primarily out of wood and aluminum extrusions. I utilized the Structural Steel feature within the SolidWorks Toolbox Add-In to ensure I was using standard materials I can purchase. Even though it is labeled for steel, there are identical c-channels and equal leg angles made from 6061 Aluminum available at Metals Depot, a supplier I have purchased from before."
     },
     {
         img: ciderpress_closeup.png,

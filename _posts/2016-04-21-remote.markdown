@@ -8,8 +8,11 @@ alt: image-alt
 project-date: April 2016
 client: Academic
 category: Mechanical Engineering
-description: "My undergraduate senior project was to design and fabricate a portable bowling kit, where the bowling pins are reset via remote control. Working as part of a five person team, I was elected team leader by the group to ensure the project was on track and members were completing their respective tasks that were collectively agreed upon. One of my delegated tasks was to create the remote. I used two Arduino boards, a transmitter/receiver kit, and an SBC (single board computer) to send communication from the buttons on the controller to the motor responsible for raising and lowering the bowling pins, utilizing PWM (pulse width modulation). To learn more about my senior project, click <a href=\"https://mechecapstone.blogs.unr.edu/previous-projects/2016-teams-2/team-6/\">here</a>."
+description: "My undergraduate senior project was to design and fabricate a portable bowling kit, where the bowling pins are reset via remote control. Working as part of a five person team, I was elected team leader by the group to ensure the project was on track and members were completing their respective tasks that were collectively agreed upon. To learn more about my senior project, click <a href=\"https://mechecapstone.blogs.unr.edu/previous-projects/2016-teams-2/team-6/\">here</a>."
 image_items: [
+    {
+        description: "One of my delegated tasks was to create the remote. I used two Arduino boards, a transmitter/receiver kit, and an SBC (single board computer) to send communication from the buttons on the controller to the motor responsible for raising and lowering the bowling pins, utilizing PWM (pulse width modulation)."
+    },
     {
         video: remote.mp4,
         description: "*Remote case (transparency has been changed to show internal features).*"

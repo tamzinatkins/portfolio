@@ -8,14 +8,25 @@ alt: image-alt
 project-date: July 2016
 client: Work
 category: Mechanical Engineering
-description: "I worked at a defense contractor, Sierra Nevada Corporation, modeling parts and performing finite element analyses of an automatic carrier landing system. Most of my work was focused around creating models for visual presentations, as well as engineering analyses. These components needed to be robust and comply with high standards."
+description: "I worked at a defense contractor, Sierra Nevada Corporation, modeling parts and performing finite element analyses of the automatic carrier landing system (ACLS) on board US Navy aircraft carriers. Components must be robust and comply with high military standards. I was part of a team of three engineers, and my work was focused around creating detailed models for visual presentations, and simplified models for engineering analyses."
+#The ACLS's purpose is to reduce landing accidents of carrier-based aircraft.
 image_items: [
+  #  {
+       # img: BigE1_circle.jpg,
+#        description: "*Photo Credit: <a href=\"https://www.defensetech.org/2011/11/09/dt-photo-tribute-50-years-of-the-uss-enterprise/\">DefenseTech</a>.*"
+ #   },
     {
-        img: yoke_back.png,
-        description: "*Yoke.*"
+        description: "Due to the sensitivity of particulars, I am unable to show analyses. Please contact me if you would like any further explanations."
     },
     {
-        description: "This yoke is one of the components I modeled. This is the back view of the yoke, which is also seen in the first picture."
+        description: "My first project was to create detailed 3D CAD models to show the product to the customer and update the company's PLM library. After I finished the components I was responsible for, I simplified them to a combination of solid and surface models to minimize the computation run time for FEA. These analyses were run to confirm design changes fixed known failure points."
+    },
+    {
+        img: yoke_back.png,
+        description: "*Yoke - back view. See first picture for front view.*"
+    },
+    {
+        description: "This yoke is the first component I modeled. My manager deemed this to be the \"most complicated\" part of the product the team was responsible for modeling, and despite the fact it was my first week there, I gladly accepted the challenge of reproducing this from its 2D drawings in a timely manner. I exceeded expectations by completing the yoke after focusing on it for 3 weeks. "
     },
     {
         img: cover_main_crop.png,
@@ -31,11 +42,13 @@ image_items: [
     {
         description: "What I learned:
 
-         Surfacing techniques
+       -  Surfacing techniques (including swept surfaces, filled surfaces)
+       
+       -  Importance of leaving fillets and chamfers for last, to ease rollback issues
 
-        - Hole Wizard and Configuration Manager in SolidWorks
-
-        - Femap, LS-DYNA (FEA software)"
+       - Hole Wizard and Configuration Manager in SolidWorks
+       
+       -  Femap & LS-DYNA (FEA software)"
     }
 
 ]
