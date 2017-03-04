@@ -19,7 +19,7 @@ image_items: [
         description: "*The hydrodynamic bearing on the press.*"
     },
     {
-        description: "The bearing helps facilitate the compression of the apple pulp. The hydrodynamic bearing is lubricated with vegetable oil, in order to not introduce liquids that are not meant for human consumption. The two bearing plates are on separate components; the top half is attached to the threaded rod, and the bottom half is attached to the pressing plate. When the user cranks the disc at the top of the threaded rod, the pressing plate is pushed down onto the apple pulp, to extract the juice."
+        description: "The bearing helps facilitate the compression of the apple pulp. The hydrodynamic bearing is lubricated with vegetable oil, in order to not introduce liquids that are not meant for human consumption. The two bearing plates are completely separate components (they appear together in the shown model); the top half is attached to the threaded rod, and the bottom half is attached to the pressing plate. Once the pulp bucket has been filled with apple pulp, the user slides the bucket to the other end of the press, where it sits under the threaded rod. The pressing plate is then placed on top of the pulp. When the user cranks the disc at the top of the threaded rod, the pressing plate is pushed down onto the apple pulp and the juice is extracted into a large bowl below the spout."
     },
     {
         description: "I plan on making design changes to the handles of the disc where the user turns in order to compress the apple pulp. For the design shown here, a piece of 2x4 was wedged between the four knobs to increase the torque to make it easier to compress the apple pulp."
@@ -30,6 +30,15 @@ image_items: [
      - Welding a large, standard sized hex head, centered on the top of the disc, and use a socket wrench to spin the press.
 
     - Welding a square head (instead of the hex head), and use a valve key."
+    },
+    {
+        description: "What I am learning:
+
+- Familiarized myself with the SolidWorks Structural Steel Toolbox Add-In
+
+- Rendering tools in SolidWorks and KeyShot
+
+- Exploring the use of the SolidWorks Weldments tool"
     }
        
 ]
