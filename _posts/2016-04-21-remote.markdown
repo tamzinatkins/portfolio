@@ -27,7 +27,11 @@ image_items: [
     {
         description: "The case was printed with ABS, using an FDM 3D printer. It was printed in two parts: the near part houses the transmitting hardware, and the far side holds the batteries."
     },
-     {
+    {
+        img: battery casing.png,
+        description: "*Battery casing part drawing.*"
+    },
+    {
         img: assemblying.jpg,
         description: "*The assembly of the control buttons, Arduino Pro Mini, transmitter (for Arduino and Raspberry Pi), and antenna (quarter-wave whip).*"
     },
