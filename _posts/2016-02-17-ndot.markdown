@@ -45,7 +45,7 @@ image_items: [
         description: "After the backplate layout was confirmed, I drew up the hole locations in SolidWorks and sent a Parasolid file to a vendor to machine the backplate. I finalized the c-channel and cover design after discussing it with the technician who would be doing the installations, to ensure the process of mounting the enclosure to the wall of the cab of the snow plow was be straightforward."
     },
     {
-        img: NDOT enclosure assembly.png,
+        img: NDOT_exploded.PNG,
         description: "*Exploded view drawing.*"
     },
     {

@@ -28,7 +28,7 @@ image_items: [
         description: "The case was printed with ABS, using an FDM 3D printer. It was printed in two parts: the near part houses the transmitting hardware, and the far side holds the batteries."
     },
     {
-        img: battery casing.png,
+        img: Battery_1.PNG,
         description: "*Battery casing part drawing.*"
     },
     {
