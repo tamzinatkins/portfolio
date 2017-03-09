@@ -49,7 +49,7 @@ image_items: [
         description: "*Exploded view drawing.*"
     },
     {
-        video: NDOT_video_updated.17.mp4,
+        video: ndot.mp4,
         description: "*The final design of the hardware enclosure.*"
     },
     {
