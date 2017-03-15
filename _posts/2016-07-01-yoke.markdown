@@ -8,7 +8,7 @@ alt: image-alt
 project-date: July 2016
 client: Work
 category: Mechanical Engineering
-description: "I worked at a defense contractor, Sierra Nevada Corporation, modeling parts and performing finite element analyses of the automatic carrier landing system (ACLS) on board US Navy aircraft carriers. Components must be robust and comply with high military standards. I was part of a team of three engineers, and my work was focused around creating detailed models for visual presentations, and simplified models for engineering analyses."
+description: "I worked at a defense contractor, Sierra Nevada Corporation, modeling parts and assemblies of the tracking antenna pedestal for the automatic carrier landing system (ACLS) on board US Navy aircraft carriers. The system is robust and complies with high military standards. I was part of a team of three engineers, and my work was focused around creating detailed models for visual presentations, and simplified models for finite element analyses."
 #The ACLS's purpose is to reduce landing accidents of carrier-based aircraft.
 image_items: [
   #  {
