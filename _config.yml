@@ -34,7 +34,7 @@ footer:
   copyright: Tamzin Atkins
   location: California
   social: Social Media
-  credits: Credits
+  credits: Last Updated
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -47,10 +47,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: San Mateo, CA
+  - line: Oakland, CA
 
 # Credits content
-# credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'July 2017'
+ #'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
