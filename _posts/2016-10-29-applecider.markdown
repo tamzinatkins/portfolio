@@ -26,7 +26,11 @@ image_items: [
         description: "*The top of the bearing on my cousin's apple press. It is lubricated with vegetable oil.*"
     },
     {
-        description: "After doing research on where to find a simple hydrodynamic bearing, like the one used on my cousin's 60+ year old press (and not having much success), the most viable option is to use a lathe or CNC and make one myself."
+        img: bearing_3.jpg,
+        description: "*The bottom of the bearing on my cousin's apple press.*"
+    },
+    {
+        description: "I have searched for a bearing that is similar to this one, but have yet to be successful - but still trying! The most viable option as of now is to use a mounted bearing or plate bearing."
     },
        {
         description: "I plan on making design changes to the handles of the disc where the user turns in order to compress the apple pulp. For the design shown here, a piece of 2x4 was wedged between the four knobs to increase the torque to make it easier to compress the apple pulp."
