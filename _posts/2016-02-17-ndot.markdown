@@ -32,7 +32,7 @@ image_items: [
         description: "*Example of hardware attached from the top face of the backplate.*"
     },
     {
-        description: "The surface of the cab wall the enclosure was in contact with was padding material, so it wasn’t necessary to have a flush surface on the back side of the enclosure.The hardware pieces that had through holes for mounting purposes were secured onto the backplate by machine screws from the topside and lock nuts."
+        description: "The surface of the cab wall the enclosure was in contact with was padding material, so it wasn’t necessary to have a flush surface on the back side of the enclosure. The hardware pieces that had through holes for mounting purposes were secured onto the backplate by machine screws from the topside and lock nuts."
     },
     {
         img: linux_box.jpg,
