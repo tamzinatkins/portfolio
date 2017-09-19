@@ -19,7 +19,7 @@ image_items: [
         description: "Due to the sensitivity of particulars, I am unable to show analyses. Please contact me if you would like any further explanations."
     },
     {
-        description: "My first project was to create detailed 3D CAD models to show the product to the customer and update the company's PLM library. After I finished the components I was responsible for, I simplified them to a combination of solid and surface models to minimize the computation run time for FEA. These analyses were run to confirm design changes fixed known failure points."
+        description: "My first project was to create detailed 3D CAD models to show the product to the customer and update the company's PDM library. After I finished the components I was responsible for, I simplified them to a combination of solid and surface models to minimize the computation run time for FEA. These analyses were run to confirm design changes fixed known failure points."
     },
     {
         img: yoke_back.png,
